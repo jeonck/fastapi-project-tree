@@ -104,6 +104,11 @@ curl -X GET "http://127.0.0.1:8000/api/v1/users/"
 ]
 ``` 
 
+# API 목록
+![image](https://github.com/user-attachments/assets/497b9c2b-bc67-4ff0-b1a4-3b49a2d5df72)
+
+
+
 
 
 md 파일 보는 방법 : cmd + shift + v  
